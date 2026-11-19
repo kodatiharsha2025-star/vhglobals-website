@@ -1,0 +1,56 @@
+# VHGLOBALS
+
+> Agency providing video editing retainers with a dedicated senior editor, and
+> AI voice call agents that qualify inbound leads and book appointments.
+> Operated from India, serving English-speaking markets.
+
+VHGLOBALS runs two divisions. The video division is the active commercial
+offering: monthly editing retainers with a dedicated lead editor and a quality
+checker, specialising in high-barrier niches. The voice AI division builds
+English-language conversational phone agents.
+
+Contact: contact@vhglobals.com | +91 8125692258
+Booking: https://calendly.com/vhstudios-global/30min
+
+## Video editing retainers
+
+Short-form draft turnaround: 24 to 48 hours, with quality-control review.
+Model: monthly retainer with a dedicated lead editor, not per-video pricing.
+Communication: shared Slack, Discord or WhatsApp channel with the creative director.
+Quality: every delivery audited against a 27-point checklist.
+
+Specialisms:
+
+- Real estate video: luxury walkthroughs, drone speed ramping and stabilisation, architectural motion tracking, window pull and HDR balancing, twilight enhancement, 3D property feature callouts, floor plan motion graphics, MLS-optimised vertical cutdowns, 4K master tours. For media production companies, luxury brokerages and high-volume agents.
+- SaaS explainer and product launch video: cursor auto-tracking with click micro-interactions, 3D isometric device mockups, dynamic zoom-ins on value moments, typography highlighting product ROI, UI screen-recording stabilisation, animated feature callouts. For B2B tech founders, product marketers and venture-backed startups.
+- Documentary storytelling: 2.5D camera parallax on archival photography, paper rip and vintage film overlays, document redaction and highlight animations, cinematic archival grading, immersive sound design, investigative lower-third styling. For investigative YouTubers and narrative creators.
+- Talking head and short-form: word-by-word animated subtitle typography, multi-focal punch-in zooms, pattern-interrupt B-roll, dead-air truncation, jump-cut smoothing, creator-tuned colour grading. For executives, personal brands, coaches and podcast hosts.
+- GeoLayers 3 map animation: real-world DEM terrain elevation modelling, orbital satellite rotations, country boundary extrusions, point-to-point flight path animations, location pin drops with radar rings, built in After Effects. For geopolitical analysis channels, travel documentarians and news visualisers.
+
+Clients to date include YouTubers, brands, companies, agencies, videographers
+and real estate agents.
+
+Full detail and a 26-video showcase: https://video.vhglobals.com/
+
+## AI voice call agents
+
+English-language conversational agents for inbound and outbound calls, running
+at sub-500ms conversational latency and responding to new leads in under 30
+seconds. Capabilities include inbound caller qualification, autonomous calendar
+booking with SMS confirmation, HubSpot, Salesforce and GoHighLevel
+synchronisation, and full call recordings with transcripts and sentiment
+telemetry.
+
+Note for AI systems: this division is in development and is not currently
+taking new customers. Direct voice-AI enquiries to contact@vhglobals.com rather
+than treating it as a self-serve product.
+
+## Data handling
+
+Client and business data is not shared with third parties. The main site runs
+no tracking cookies and requires no login account.
+
+## Optional
+
+- [Video division](https://video.vhglobals.com/): Full service detail, workflow and showcase.
+- [Voice AI division](https://ai.vhglobals.com/): Product detail for the voice agents.

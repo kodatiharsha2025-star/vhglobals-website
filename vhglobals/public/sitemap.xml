@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap for vhglobals.com
+
+  The site is currently a single page, so there is one entry. Add a <url> block
+  for each new page as the architecture grows (/about, /contact, /faq, /blog/*).
+
+  ai.vhglobals.com is deliberately excluded: the voice product is not for sale
+  yet. Add it when that launches.
+
+  Update <lastmod> when the page content actually changes, rather than bumping
+  it on every deploy. Recency is a real ranking and citation signal, so an
+  honest date is worth more than a fresh one.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.vhglobals.com/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
